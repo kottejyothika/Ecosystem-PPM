@@ -1,0 +1,8 @@
+{
+  "name": "EcoCampus",
+  "description": "Plastic-Free College Management System – Reduce, Reuse, Recycle, Reward",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
